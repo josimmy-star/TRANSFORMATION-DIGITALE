@@ -1,0 +1,102 @@
+# ☁️ Case Study 4  
+## 🚢 Comment le Cloud a Transformé le Plus Grand Port de Guinée  
+### (AGL Conakry Terminal)
+
+---
+
+## ❓ ÉTAPE 1 : Identification du problème  
+
+### Pourquoi le port était inefficace en 2020 ?  
+
+**Constats :**  
+- Processus manuel (papier + Excel)  
+- Systèmes anciens (Windows XP)  
+- Temps de traitement très long (**45 min / conteneur**)  
+- Données non accessibles à distance  
+
+👉 **Conclusion :**  
+Le système était **lent, coûteux et non digitalisé**.
+
+---
+
+## ☁️ ÉTAPE 2 : Comprendre la solution Cloud  
+
+### 👉 Exemple utilisé : Microsoft Azure  
+
+### ✅ Définition simple  
+Le **Cloud Computing** permet de stocker et d’utiliser les données via Internet, au lieu d’un serveur local.
+
+---
+
+## 📊 ÉTAPE 3 : Bénéfices clés  
+
+Avec le Cloud, on obtient :  
+- Accès **24/7 partout**  
+- Réduction des coûts  
+- Sécurité élevée  
+- Collaboration en temps réel  
+- Scalabilité (adaptation à la demande)  
+
+---
+
+## 📋 ÉTAPE 4 : Audit Cloud (AGL - 2020)  
+
+| Critère                     | Oui/Non | Priorité | Action recommandée |
+|----------------------------|--------|----------|--------------------|
+| Données sur serveur local  | Oui    | Haute    | Migrer vers le cloud (Microsoft Azure) |
+| Accès hors bureau          | Oui    | Haute    | Mettre un accès sécurisé (leçon du COVID-19) |
+| Collaboration externe      | Oui    | Moyenne  | Outils collaboratifs (partage avec MSC Genève) |
+| Coûts IT élevés            | Oui    | Haute    | Réduire les coûts de maintenance physique |
+| Risque de perte de données | Oui    | Haute    | Sauvegarde cloud (Disaster Recovery) |
+| IT surchargée              | Oui    | Moyenne  | Externaliser la maintenance à Microsoft |
+| Croissance rapide          | Oui    | Haute    | Utiliser un cloud scalable |
+| Besoin de flexibilité      | Oui    | Haute    | Gérer les pics de trafic |
+| Sécurité insuffisante      | Oui    | Haute    | Renforcer la sécurité |
+| Conformité                 | Oui    | Moyenne  | Assurer traçabilité (douane) |
+
+---
+
+## 🧮 Résultat de l’audit  
+
+**Nombre de “Oui” : 10 / 10**  
+
+👉 **Conclusion : Migration Cloud URGENTE**
+
+---
+
+## 🛠️ Plan de migration Cloud  
+
+| Phase | Durée   | Application                         | Coût      |
+|------|--------|-------------------------------------|-----------|
+| 1    | 1 mois | Emails (Office 365)                 | 5M GNF    |
+| 2    | 3 mois | Base de données + stockage          | 200M GNF  |
+| 3    | 2 mois | Applications métier + mobile        | 300M GNF  |
+
+---
+
+## 📈 Résultats attendus  
+
+- Gain de temps (**-70%**)  
+- Réduction des coûts IT  
+- Amélioration de la productivité  
+- Accès global aux données  
+- Sécurité renforcée  
+
+---
+
+## ⚠️ Risques  
+
+- Dépendance à Internet  
+- Coût mensuel récurrent  
+- Besoin de formation des équipes  
+
+---
+
+## 🚀 Conclusion  
+
+Le **Cloud** représente une transformation stratégique majeure permettant :  
+- d’améliorer l’efficacité opérationnelle  
+- de réduire les coûts  
+- de sécuriser les données  
+
+👉 Pour une entreprise en croissance, il devient **indispensable pour rester compétitif**.
