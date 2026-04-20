@@ -1,47 +1,93 @@
-## AUTEUR
+# 🚀 PORTFOLIO – TRANSFORMATION NUMÉRIQUE  
+## 📊 Data Analyst | Promotion 2026  
 
-ETUDIANT EN DATA ANALYST
-CENTRE DE FORMATION : LIEWO HUB
+---
 
-COHORTE 2026
+## 👤 AUTEUR  
 
-## NOM: JOSEPH KONONZE SIMMY 
-TEL: 620 86 10 78
+**Nom :** JOSEPH KONONZE SIMMY  
+**Téléphone :** +224 620 86 10 78  
+**Email :** louiscksimmy@gmail.com  
+**LinkedIn :** https://www.linkedin.com/in/joseph-kononzé-simmy-42006712a  
+**Statut :** Étudiant en Data Analyst  
+**Centre de formation :** LIEWO HUB  
 
-### TRANSFORMATION DIGITALE
-En tant qu'etudiant en data analyst j'apprends dans cette formation:
+---
 
-La collecte, le  nettoyage et interpretation de grands ensembles de données brutes pour en extraire des informations exploitables.
+## 🌍 À propos  
 
-En suite de les transformer en  données clées pour guider les décisions stratégiques d'une entreprise.
+En tant qu’étudiant en **Data Analyst**, je me spécialise dans la transformation des données en **leviers de décision stratégique**.  
 
-Notre projet d'etdude a cinq case
+Ma formation me permet de :  
+- collecter, nettoyer et analyser des données massives  
+- extraire des insights pertinents  
+- transformer les données en **actions concrètes pour les entreprises**  
 
+👉 Mon objectif est d’aider les organisations à **prendre de meilleures décisions grâce à la data**.
 
-## Voici le contenu de chaque projet
+---
 
-Case Study 1 : Orange Money Guinée
+## 📚 Projets – Études de cas  
 
-Case Study 2 : Cybersécurité (Société Générale)
+Dans le cadre de ma formation, j’ai réalisé **5 études de cas pratiques** basées sur des problématiques réelles d’entreprises en Guinée :  
 
-Case Study 3 : Big Data (Jumia Guinée)
+### 1. 💰 Orange Money Guinée  
+Analyse de marché et décision stratégique de lancement  
 
-Case Study 4 : Cloud (AGL Conakry Terminal)
+### 2. 🔐 Cybersécurité – Société Générale Guinée  
+Audit de sécurité et plan d’action pour éviter des pertes majeures  
 
-Case Study 5 : IA Anti-Fraude (EDG)
+### 3. 🛒 Big Data – Jumia Guinée  
+Utilisation des données clients pour augmenter les ventes  
 
-## Mon Objectifs
+### 4. ☁️ Cloud – AGL Conakry Terminal  
+Migration vers le Cloud pour améliorer performance et sécurité  
 
-Analyser des problématiques réelles
+### 5. 🤖 IA Anti-Fraude – EDG  
+Détection automatique des fraudes grâce à l’intelligence artificielle  
 
-Proposer des solutions data
+---
 
-Comprendre les piliers de la digitalisation
+## 🎯 Objectifs professionnels  
 
-## Mes Compétences actuelles dans ce cadre:
+- Analyser des problématiques business réelles  
+- Proposer des solutions basées sur la data  
+- Comprendre et maîtriser les piliers de la transformation digitale  
 
-Data Analystics
+---
 
-Cybersécurité
+## 🧠 Compétences  
 
-Intelligence Artificielle
+### 📊 Data & Analyse  
+- Analyse de données  
+- Interprétation de données  
+- Data-driven decision making  
+
+### 🔐 Cybersécurité  
+- Audit de sécurité  
+- Gestion des risques  
+
+### 🤖 Intelligence Artificielle  
+- Détection d’anomalies  
+- Analyse prédictive  
+
+---
+
+## 🚀 Vision  
+
+Utiliser la **data** comme un outil puissant pour :  
+- résoudre des problèmes complexes  
+- améliorer la performance des entreprises  
+- accélérer la transformation numérique en Afrique  
+
+---
+
+## 📩 Contact  
+
+📞 +224 620 86 10 78  
+📧 louiscksimmy@gmail.com  
+🔗 https://www.linkedin.com/in/joseph-kononzé-simmy-42006712a  
+
+---
+
+⭐ *N'hésitez pas à explorer mes projets pour découvrir comment la data peut transformer une entreprise !*
