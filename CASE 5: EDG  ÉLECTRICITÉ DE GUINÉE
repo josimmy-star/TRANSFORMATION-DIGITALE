@@ -1,0 +1,97 @@
+# ⚡ Case Study 5  
+## 🤖 Comment l’IA Détecte 2 000 Fraudes par Mois  
+### (Électricité de Guinée - EDG)
+
+---
+
+## ❓ 1. Identification du problème  
+
+### Pourquoi EDG perd de l’argent ?  
+
+**Constats :**  
+- 40% de pertes totales  
+- 10% liées à la fraude  
+- Valeur estimée : **180 milliards GNF / an**  
+
+👉 **Conclusion :**  
+La fraude représente une **perte financière massive** pour EDG.
+
+---
+
+## ⚠️ 2. Types de fraudes  
+
+- Branchement illégal  
+- Compteur trafiqué  
+- Faux abonnement  
+
+---
+
+## 🤖 3. Solution : Intelligence Artificielle  
+
+L’**IA** analyse les données de consommation pour :  
+- détecter automatiquement les anomalies  
+- identifier les comportements frauduleux  
+
+---
+
+## 📊 4. Analyse des fraudes  
+
+| Type de fraude              | Fréquence        | Perte/an  | Détectable par IA |
+|-----------------------------|------------------|-----------|-------------------|
+| Fausses factures            | Fréquent (5/10)  | 50M GNF   | Oui               |
+| Branchement illégal         | Très fréquent (8/10) | 100M GNF  | Oui               |
+| Compteur trafiqué           | Fréquent (7/10)  | 80M GNF   | Oui               |
+| Faux abonnements            | Moyen (4/10)     | 40M GNF   | Oui               |
+| Consommation non déclarée   | Fréquent (6/10)  | 60M GNF   | Oui               |
+
+---
+
+## 🔍 5. Détection intelligente (exemple)  
+
+### Fraude : Compteur trafiqué  
+
+**Signaux suspects :**  
+1. Baisse soudaine de consommation  
+2. Consommation inférieure aux voisins  
+3. Historique stable puis chute brutale  
+4. Consommation incohérente avec la taille du logement  
+5. Pics irréguliers  
+
+👉 **Seuil d’alerte :**  
+Baisse > **50% en 1 mois**  
+
+👉 **Actions automatiques :**  
+- Alerte envoyée  
+- Inspection terrain  
+- Vérification du compteur  
+
+---
+
+## 💰 6. Coût du projet  
+
+| Poste                       | Coût        |
+|----------------------------|------------|
+| Collecte de données        | 400M GNF   |
+| Plateforme IA              | 300M GNF   |
+| Formation des équipes      | 100M GNF   |
+| **TOTAL**                  | **800M GNF** |
+
+---
+
+## 📈 7. Résultats attendus  
+
+- Fraudes détectées : **2 000 / mois**  
+- Montant récupéré : **10 milliards GNF / mois**  
+
+👉 **ROI : 2 mois**  
+
+---
+
+## 🚀 Conclusion  
+
+L’Intelligence Artificielle permet :  
+- d’identifier rapidement les fraudes  
+- de récupérer des pertes financières importantes  
+- d’améliorer la performance globale de l’entreprise  
+
+👉 C’est un **levier stratégique majeur** pour transformer EDG en entreprise rentable et moderne.
